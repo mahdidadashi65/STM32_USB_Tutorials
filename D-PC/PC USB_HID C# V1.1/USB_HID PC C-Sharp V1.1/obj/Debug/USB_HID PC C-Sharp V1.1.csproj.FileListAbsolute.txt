@@ -1,0 +1,18 @@
+F:\Projects\98\STM32 USB TEST\PC\USB_HID PC C-Sharp V1.1\USB_HID PC C-Sharp V1.1\bin\Debug\USB_HID PC C-Sharp V1.1.exe
+F:\Projects\98\STM32 USB TEST\PC\USB_HID PC C-Sharp V1.1\USB_HID PC C-Sharp V1.1\bin\Debug\USB_HID PC C-Sharp V1.1.pdb
+F:\Projects\98\STM32 USB TEST\PC\USB_HID PC C-Sharp V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID_PC_C_Sharp_V1._1.Form1.resources
+F:\Projects\98\STM32 USB TEST\PC\USB_HID PC C-Sharp V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID_PC_C_Sharp_V1._1.Properties.Resources.resources
+F:\Projects\98\STM32 USB TEST\PC\USB_HID PC C-Sharp V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID PC C-Sharp V1.1.csproj.GenerateResource.Cache
+F:\Projects\98\STM32 USB TEST\PC\USB_HID PC C-Sharp V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID PC C-Sharp V1.1.exe
+F:\Projects\98\STM32 USB TEST\PC\USB_HID PC C-Sharp V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID PC C-Sharp V1.1.pdb
+F:\Projects\98\STM32 USB TEST\PC\USB_HID PC C-Sharp V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID PC C-Sharp V1.1.csprojResolveAssemblyReference.cache
+F:\Projects\98\STM32 USB TEST\USB Projects 9806\PC\PC USB_HID C# V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID PC C-Sharp V1.1.exe
+F:\Projects\98\STM32 USB TEST\USB Projects 9806\PC\PC USB_HID C# V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID PC C-Sharp V1.1.pdb
+F:\Projects\98\STM32 USB TEST\USB Projects 9808\PC\PC USB_HID C# V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID PC C-Sharp V1.1.exe
+F:\Projects\98\STM32 USB TEST\USB Projects 9808\PC\PC USB_HID C# V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID PC C-Sharp V1.1.pdb
+F:\Projects\98\STM32 USB TEST\USB Projects 9808\PC\PC USB_HID C# V1.1\USB_HID PC C-Sharp V1.1\bin\Debug\USB_HID PC C-Sharp V1.1.exe
+F:\Projects\98\STM32 USB TEST\USB Projects 9808\PC\PC USB_HID C# V1.1\USB_HID PC C-Sharp V1.1\bin\Debug\USB_HID PC C-Sharp V1.1.pdb
+F:\Projects\98\STM32 USB TEST\USB Projects 9808\PC\PC USB_HID C# V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID PC C-Sharp V1.1.csprojResolveAssemblyReference.cache
+F:\Projects\98\STM32 USB TEST\USB Projects 9808\PC\PC USB_HID C# V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID_PC_C_Sharp_V1._1.Form1.resources
+F:\Projects\98\STM32 USB TEST\USB Projects 9808\PC\PC USB_HID C# V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID_PC_C_Sharp_V1._1.Properties.Resources.resources
+F:\Projects\98\STM32 USB TEST\USB Projects 9808\PC\PC USB_HID C# V1.1\USB_HID PC C-Sharp V1.1\obj\Debug\USB_HID PC C-Sharp V1.1.csproj.GenerateResource.Cache

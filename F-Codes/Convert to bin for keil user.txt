@@ -1,0 +1,1 @@
+$K\ARM\ARMCC\bin\fromelf.exe --bin --output=@L.bin !L

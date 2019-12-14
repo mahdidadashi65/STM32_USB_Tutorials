@@ -1,0 +1,104 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.26.2.0
+Copyright (C) 2018 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Mahdi Dadashi, app, LIC=21E45-GCQQ9-ARAXW-Q1CFW-1WVZ7-GC2RW
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.26.2.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.26.2.0
+Dialog DLL:      DCM.DLL V1.17.2.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.5.0
+Dialog DLL:      TCM.DLL V1.36.1.0
+ 
+<h2>Project:</h2>
+F:\Projects\98\STM32 USB TEST\USB Projects 9808\USB HOST 540 170\6_USBH_MSC_CH376S - C\MDK-ARM\5_USBH_MSC_CH376S.uvprojx
+Project File Date:  11/17/2019
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target '5_USBH_MSC_CH376S'
+assembling startup_stm32f107xc.s...
+compiling MyApp.c...
+..\MyApp\MyApp.h(21): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\MyApp\MyApp.c(87): warning:  #223-D: function "Ch376msc_writeFile" declared implicitly
+              Ch376msc_writeFile(adat, strlen(adat)); //string, string length
+..\MyApp\MyApp.c(97): warning:  #223-D: function "Ch376msc_moveCursor" declared implicitly
+          Ch376msc_moveCursor(CURSOREND);     //move the "virtual" cursor at end of the file, with CURSORBEGIN we actually rewrite our old file
+..\MyApp\MyApp.c(102): warning:  #223-D: function "Ch376msc_writeFile" declared implicitly
+          		Ch376msc_writeFile(adat2, strlen(adat2)); //string, string length
+..\MyApp\MyApp.c(160): warning:  #223-D: function "Ch376msc_dirInfoSave" declared implicitly
+            Ch376msc_dirInfoSave();           //save the changed data
+..\MyApp\MyApp.c(168): warning:  #223-D: function "Ch376msc_deleteFile" declared implicitly
+          Ch376msc_deleteFile();              //delete file
+..\MyApp\MyApp.c(174): warning:  #223-D: function "Ch376msc_listDir" declared implicitly
+            while(Ch376msc_listDir()){ // reading next file
+..\MyApp\MyApp.c: 7 warnings, 0 errors
+compiling Ch376msc.c...
+..\MyApp\Ch376msc.c(121): warning:  #940-D: missing return statement at end of non-void function "readSerDataUSB" 
+  }
+..\MyApp\Ch376msc.c(567): warning:  #177-D: variable "oldMillis"  was declared but never referenced
+  	uint32_t oldMillis;
+..\MyApp\Ch376msc.c: 2 warnings, 0 errors
+compiling main.c...
+..\MyApp\MyApp.h(21): warning:  #1-D: last line of file ends without a newline
+  #endif
+../Src/main.c: 1 warning, 0 errors
+compiling stm32f1xx_it.c...
+compiling stm32f1xx_hal_gpio_ex.c...
+compiling stm32f1xx_hal_msp.c...
+compiling stm32f1xx_hal_spi.c...
+compiling stm32f1xx_hal.c...
+compiling stm32f1xx_hal_rcc.c...
+compiling stm32f1xx_hal_rcc_ex.c...
+compiling stm32f1xx_hal_gpio.c...
+compiling stm32f1xx_hal_dma.c...
+compiling stm32f1xx_hal_cortex.c...
+compiling stm32f1xx_hal_pwr.c...
+compiling stm32f1xx_hal_flash.c...
+compiling stm32f1xx_hal_flash_ex.c...
+compiling stm32f1xx_hal_exti.c...
+compiling stm32f1xx_hal_tim.c...
+compiling stm32f1xx_hal_tim_ex.c...
+compiling stm32f1xx_hal_uart.c...
+compiling system_stm32f1xx.c...
+linking...
+Program Size: Code=16748 RO-data=512 RW-data=244 ZI-data=4636  
+FromELF: creating hex file...
+"5_USBH_MSC_CH376S\5_USBH_MSC_CH376S.axf" - 0 Error(s), 10 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.4.0.pack
+                ARM.CMSIS.5.4.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.1.2
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.2.0.pack
+                Keil.STM32F1xx_DFP.2.2.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_5_USBH_MSC_CH376S
+  C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include
+  C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.1.2
+Build Time Elapsed:  00:02:04
+</pre>
+</body>
+</html>

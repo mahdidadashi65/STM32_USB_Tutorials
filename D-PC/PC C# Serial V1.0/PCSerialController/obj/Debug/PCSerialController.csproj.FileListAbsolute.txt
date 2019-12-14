@@ -1,0 +1,8 @@
+F:\Projects\98\STM32 USB TEST\USB Projects 9806\PC\PC C# Serial\PCSerialController\bin\Debug\PCSerialController.exe
+F:\Projects\98\STM32 USB TEST\USB Projects 9806\PC\PC C# Serial\PCSerialController\bin\Debug\PCSerialController.pdb
+F:\Projects\98\STM32 USB TEST\USB Projects 9806\PC\PC C# Serial\PCSerialController\obj\Debug\PCSerialController.csprojResolveAssemblyReference.cache
+F:\Projects\98\STM32 USB TEST\USB Projects 9806\PC\PC C# Serial\PCSerialController\obj\Debug\PCSerialController.Properties.Resources.resources
+F:\Projects\98\STM32 USB TEST\USB Projects 9806\PC\PC C# Serial\PCSerialController\obj\Debug\PCSerialController.csproj.GenerateResource.Cache
+F:\Projects\98\STM32 USB TEST\USB Projects 9806\PC\PC C# Serial\PCSerialController\obj\Debug\PCSerialController.exe
+F:\Projects\98\STM32 USB TEST\USB Projects 9806\PC\PC C# Serial\PCSerialController\obj\Debug\PCSerialController.pdb
+F:\Projects\98\STM32 USB TEST\USB Projects 9806\PC\PC C# Serial\PCSerialController\obj\Debug\PCSerialController.Form1.resources

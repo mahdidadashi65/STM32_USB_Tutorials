@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<dpInst>
+        <dpinstTitle>Virtual COM port driver Installer</dpinstTitle>
+    
+        <welcomeTitle>Welcome to the Virtual COM port driver Installer!</welcomeTitle>
+        <welcomeIntro>This wizard will walk you through updating the drivers for your Virtual COM port driver.</welcomeIntro>
+
+        <installHeaderTitle>Installing the software for your Virtual COM port driver...</installHeaderTitle>
+
+        <finishTitle>Congratulations! You are finished installing your Virtual COM port driver.</finishTitle>
+        <finishText>Enjoy using the Virtual COM port device.</finishText>
+    <enableNotListedLanguages/> 
+    <legacyMode/>
+    <deleteBinaries/>
+    <forceIfDriverIsNotBetter/>
+    <suppressAddRemovePrograms/>
+    <quietInstallStrict/>
+</dpInst>
