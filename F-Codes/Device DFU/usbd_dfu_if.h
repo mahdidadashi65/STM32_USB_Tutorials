@@ -1,21 +1,24 @@
 /* USER CODE BEGIN Header */
-/**
-  ******************************************************************************
-  * @file           : usbd_dfu_if.h
-  * @brief          : Header for usbd_dfu_if.c file.
-  ******************************************************************************
-  * @attention
-  *
-  * <h2><center>&copy; Copyright (c) 2019 STMicroelectronics.
-  * All rights reserved.</center></h2>
-  *
-  * This software component is licensed by ST under Ultimate Liberty license
-  * SLA0044, the "License"; You may not use this file except in compliance with
-  * the License. You may obtain a copy of the License at:
-  *                             www.st.com/SLA0044
-  *
-  ******************************************************************************
-  */
+
+
+//           ****************************************************
+//          **   Processor      : STM32F107VCT6                   **
+//         ***   Frequency      : 8MHz ExtClock 72MHZ CPU Clock   ***
+//        ****   AUTHOR         : Mahdi Dadashi                   ****
+//       *****   STM32CubeMX    : V5.40                           *****
+//      ******   STM32CubeF1    : V1.8.0                          ******
+//       *****   Compiler       : KEIL uVision V5.26              *****
+//        ****   Instagram      : instagram.com/mahdidadashi65/   ****
+//         ***   Telegram       : t.me/mahdidadashi65/            ***
+//          **   Github         : github.com/mahdidadashi65/      **
+//           ****************************************************
+//.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._
+//.-''-._.-''-._.-''                                 ''-._.-''-._.-''-._.-''-._
+//.-''-._.-''-._.-''      www.mahdidadashi.ir        ''-._.-''-._.-''-._.-''-._
+//.-''-._.-''-._.-''                                 ''-._.-''-._.-''-._.-''-._
+//.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._.-''-._
+
+
 /* USER CODE END Header */
 
 /* Define to prevent recursive inclusion -------------------------------------*/
